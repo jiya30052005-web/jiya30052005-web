@@ -1,5 +1,5 @@
-# 💫 About Me:
-- 🔭 I'm currently working on **automating CI/CD pipelines and building infrastructure-as-code with Terraform/Ansible**<br>- 🤝 I'm looking to collaborate on **open-source DevOps tools and projects that blend UX with backend infrastructure**<br>- 🍁 I'm looking for help with **scaling CI/CD pipelines and advanced Kubernetes networking**<br>- 🌱 I'm currently learning **Kubernetes, cloud platforms (AWS/Azure), and monitoring tools like Prometheus & Grafana**<br>- 💬 Ask me about **UX design, DevOps automation, and building better developer experiences**<br>- ⚡ Fun fact: **I went from designing user flows to designing deployment flows**
+About Me:
+I'm currently working on **automating CI/CD pipelines and building infrastructure-as-code with Terraform/Ansible**<br>- 🤝 I'm looking to collaborate on **open-source DevOps tools and projects that blend UX with backend infrastructure**<br>- 🍁 I'm looking for help with **scaling CI/CD pipelines and advanced Kubernetes networking**<br>-  I'm currently learning **Kubernetes, cloud platforms (AWS/Azure), and monitoring tools like Prometheus & Grafana**<br>- 💬 Ask me about **UX design, DevOps automation, and building better developer experiences**<br>- ⚡ Fun fact: **I went from designing user flows to designing deployment flows**
 
 
 ## 🌐 Socials:
